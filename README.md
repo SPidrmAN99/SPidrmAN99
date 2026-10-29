@@ -56,9 +56,10 @@ Also worked with Java, Raspberry Pi, CAN, I²C, SPI, Altium, CoppeliaSim Edu, MA
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🕷️ Six-legged crawling robot</h3>
+      <h3>🕷️ <a href="https://github.com/SPidrmAN99/SpiderHex">SpiderHex — Six-legged crawling robot</a></h3>
       <strong>Four-person team · Working demo</strong>
       <p>Built a 12-actuator, six-legged robot. I designed the mechanical linkages, created the CAD model, fabricated and tested parts, coordinated team tasks, and co-developed a mobile app. The legs work when lifted, but the current robot cannot yet walk under its own weight.</p>
+      <p><a href="https://github.com/SPidrmAN99/SpiderHex"><strong>Explore the source, CAD, and build videos →</strong></a></p>
     </td>
     <td width="50%" valign="top">
       <h3>🏎️ Formula Student EV</h3>
