@@ -44,7 +44,8 @@ Also worked with Java, Raspberry Pi, CAN, I²C, SPI, Altium, CoppeliaSim Edu, MA
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌍 EarthQuery AI</h3>
+      <h3>🌍 <a href="https://github.com/SPidrmAN99/EarthQuery-AI">EarthQuery AI</a></h3>
+      <p><a href="https://github.com/SPidrmAN99/EarthQuery-AI"><strong>Explore the source and screenshots →</strong></a></p>
       <strong>Solo project · Built</strong>
       <p>A geospatial imagery analysis application for satellite and raster data, with map-based workflows, Azure OpenAI image questions, and session usage and cost tracking.</p>
     </td>
