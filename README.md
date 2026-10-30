@@ -50,9 +50,9 @@ Also worked with Java, Raspberry Pi, CAN, I²C, SPI, Altium, CoppeliaSim Edu, MA
       <p>A geospatial imagery analysis application for satellite and raster data, with map-based workflows, Azure OpenAI image questions, and session usage and cost tracking.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 CHHOTU</h3>
-      <strong>Personal project · Prototype</strong>
-      <p>A local assistant prototype combining a language model and speech-to-text, with limited access to my PC. The longer-term goal is a more capable personal assistant.</p>
+      <h3>🏎️ <a href="https://github.com/SPidrmAN99/Virtual-Powertrain-Test-Intelligence-Bench-VPTIB-">VPTIB — Virtual Powertrain Test & Intelligence Bench</a></h3>
+      <strong>Personal project · Planning phase</strong>
+      <p>A planned simulation-based workbench for virtual engine-dyno tests, ECU fuel and ignition control experiments, sensor fault detection, automated run analysis, and AI-assisted reporting.</p>
     </td>
   </tr>
   <tr>
